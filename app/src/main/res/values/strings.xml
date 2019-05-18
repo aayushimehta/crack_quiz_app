@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Crack Quiz App</string>
+    <string name="userNameStr">User Name</string>
+    <string name="hintUserStr">User Name</string>
+    <string name="pswdHintStr">Password</string>
+    <string name="loginBtnStr">Login</string>
+    <string name="regBtnStr">Register</string>
+    <string name="fnameStr">First Name</string>
+    <string name="lnameStr">Last Name</string>
+    <string name="emailIdStr">Email Id</string>
+    <string name="psw2Str">Re-type password</string>
+    <string name="submitBtnStr">Submit</string>
+    <string name="textViewWelcome">Welcome!</string>
+    <string name="textViewScore">Score: 0</string>
+    <string name="textViewQuestionNo">Question: 1/x</string>
+    <string name="textViewTimer">00:30</string>
+    <string name="btnSubmit">Submit Answer</string>
+    <string name="textViewMakeQuiz">Make A Quiz</string>
+    <string name="hintQuestion">Add Question Here</string>
+    <string name="hintOption1">Enter Option 1</string>
+    <string name="hintOption2">Enter Option 2</string>
+    <string name="hintOption3">Enter Option 3</string>
+    <string name="btnAddQues">Add Question</string>
+    <string name="hintCorrectAnswer">Correct Answer</string>
+    <string name="buttonEndQuiz">End Quiz</string>
+    <string name="btnLogout">Logout</string>
+    <string name="textViewGradeHeading">Your current grade is:</string>
+    <string name="textViewPerformance">Class Performance</string>
+    <string name="textViewClass">Total Students who have taken the quiz</string>
+    <string name="textViewGradeList">Student Grade List</string>
+    <string name="textViewSignUp">Register Here!</string>
+    <string name="textViewMain">Welcome to Crack Quiz</string>
+    <string name="textViewRegisterHere">Not a member yet?! Click the button below!</string>
+    <string name="btnSaveToFile">Save To File</string>
+
+    <string-array name="userTypes">
+        <item>Student</item>
+        <item>Instructor</item>
+    </string-array>
+</resources>
